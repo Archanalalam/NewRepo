@@ -11,3 +11,5 @@ public class GFG{
         System.out.println("After swapping: m = " + m + ", n = " + n);
     }
 }
+
+///this is java code
